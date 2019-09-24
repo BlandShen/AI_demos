@@ -3,7 +3,7 @@ import paddle.fluid as fluid
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-mpl.use = "Agg"
+#mpl.use = "Agg"
 
 BUF_SIZE = 500
 BATCH_SIZE = 20
