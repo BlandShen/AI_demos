@@ -1,2 +1,2 @@
 # ai_study
-## Some ArtificalInteligence demos with python, paddlepaddle
+## Some Artifical Inteligence demos with python, paddlepaddle
